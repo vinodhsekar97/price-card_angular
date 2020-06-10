@@ -1,0 +1,11 @@
+html {
+    height: 100vh;
+  }
+  body {
+    height: 100%;
+  }
+  section.pricing {
+    background: #007bff;
+    background: linear-gradient(to right, #0062e6, #33aeff);
+    height: 100%;
+  }
